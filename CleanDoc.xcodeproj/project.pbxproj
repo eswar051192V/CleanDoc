@@ -7,6 +7,42 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		16EFD0E021F1B576003CC125 /* CDAppointmentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD0DF21F1B576003CC125 /* CDAppointmentViewController.swift */; };
+		16EFD0E121F1B576003CC125 /* CDAppointmentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD0DF21F1B576003CC125 /* CDAppointmentViewController.swift */; };
+		16EFD0E221F1B576003CC125 /* CDAppointmentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD0DF21F1B576003CC125 /* CDAppointmentViewController.swift */; };
+		16EFD0E421F1B5AA003CC125 /* CDProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD0E321F1B5AA003CC125 /* CDProfileViewController.swift */; };
+		16EFD0E521F1B5AA003CC125 /* CDProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD0E321F1B5AA003CC125 /* CDProfileViewController.swift */; };
+		16EFD0E621F1B5AA003CC125 /* CDProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD0E321F1B5AA003CC125 /* CDProfileViewController.swift */; };
+		16EFD0E821F1B5D3003CC125 /* CDAppointmentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD0E721F1B5D3003CC125 /* CDAppointmentViewModel.swift */; };
+		16EFD0E921F1B5D3003CC125 /* CDAppointmentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD0E721F1B5D3003CC125 /* CDAppointmentViewModel.swift */; };
+		16EFD0EA21F1B5D3003CC125 /* CDAppointmentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD0E721F1B5D3003CC125 /* CDAppointmentViewModel.swift */; };
+		16EFD0EC21F1B5E3003CC125 /* CDLocationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD0EB21F1B5E3003CC125 /* CDLocationService.swift */; };
+		16EFD0ED21F1B5E3003CC125 /* CDLocationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD0EB21F1B5E3003CC125 /* CDLocationService.swift */; };
+		16EFD0EE21F1B5E3003CC125 /* CDLocationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD0EB21F1B5E3003CC125 /* CDLocationService.swift */; };
+		16EFD0F421F49BEE003CC125 /* MediaPickerPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD0EF21F49BEE003CC125 /* MediaPickerPresenter.swift */; };
+		16EFD0F521F49BEF003CC125 /* MediaPickerPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD0EF21F49BEE003CC125 /* MediaPickerPresenter.swift */; };
+		16EFD0F621F49BEF003CC125 /* MediaPickerPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD0EF21F49BEE003CC125 /* MediaPickerPresenter.swift */; };
+		16EFD0F721F49BEF003CC125 /* MimeType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD0F021F49BEE003CC125 /* MimeType.swift */; };
+		16EFD0F821F49BEF003CC125 /* MimeType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD0F021F49BEE003CC125 /* MimeType.swift */; };
+		16EFD0F921F49BEF003CC125 /* MimeType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD0F021F49BEE003CC125 /* MimeType.swift */; };
+		16EFD0FA21F49BEF003CC125 /* DocumentPickerHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD0F121F49BEE003CC125 /* DocumentPickerHandler.swift */; };
+		16EFD0FB21F49BEF003CC125 /* DocumentPickerHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD0F121F49BEE003CC125 /* DocumentPickerHandler.swift */; };
+		16EFD0FC21F49BEF003CC125 /* DocumentPickerHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD0F121F49BEE003CC125 /* DocumentPickerHandler.swift */; };
+		16EFD0FD21F49BEF003CC125 /* ImagePickerHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD0F221F49BEE003CC125 /* ImagePickerHandler.swift */; };
+		16EFD0FE21F49BEF003CC125 /* ImagePickerHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD0F221F49BEE003CC125 /* ImagePickerHandler.swift */; };
+		16EFD0FF21F49BEF003CC125 /* ImagePickerHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD0F221F49BEE003CC125 /* ImagePickerHandler.swift */; };
+		16EFD10021F49BEF003CC125 /* FileInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD0F321F49BEE003CC125 /* FileInfo.swift */; };
+		16EFD10121F49BEF003CC125 /* FileInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD0F321F49BEE003CC125 /* FileInfo.swift */; };
+		16EFD10221F49BEF003CC125 /* FileInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD0F321F49BEE003CC125 /* FileInfo.swift */; };
+		16EFD10821F4A073003CC125 /* DAKeyboardControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD10721F4A073003CC125 /* DAKeyboardControl.m */; };
+		16EFD10921F4A073003CC125 /* DAKeyboardControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD10721F4A073003CC125 /* DAKeyboardControl.m */; };
+		16EFD10A21F4A073003CC125 /* DAKeyboardControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD10721F4A073003CC125 /* DAKeyboardControl.m */; };
+		16EFD10E21F4A71F003CC125 /* DateExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD10D21F4A71F003CC125 /* DateExtension.swift */; };
+		16EFD10F21F4A71F003CC125 /* DateExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD10D21F4A71F003CC125 /* DateExtension.swift */; };
+		16EFD11021F4A71F003CC125 /* DateExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD10D21F4A71F003CC125 /* DateExtension.swift */; };
+		16EFD11221F4B606003CC125 /* CDProfileViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD11121F4B606003CC125 /* CDProfileViewModel.swift */; };
+		16EFD11321F4B606003CC125 /* CDProfileViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD11121F4B606003CC125 /* CDProfileViewModel.swift */; };
+		16EFD11421F4B606003CC125 /* CDProfileViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16EFD11121F4B606003CC125 /* CDProfileViewModel.swift */; };
 		16F6102921EB8FD1005A99D2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16F6102821EB8FD1005A99D2 /* AppDelegate.swift */; };
 		16F6102B21EB8FD1005A99D2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16F6102A21EB8FD1005A99D2 /* ViewController.swift */; };
 		16F6102E21EB8FD1005A99D2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 16F6102C21EB8FD1005A99D2 /* Main.storyboard */; };
@@ -14,6 +50,18 @@
 		16F6103321EB8FD7005A99D2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 16F6103121EB8FD7005A99D2 /* LaunchScreen.storyboard */; };
 		16F6103E21EB8FD8005A99D2 /* CleanDocTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16F6103D21EB8FD8005A99D2 /* CleanDocTests.swift */; };
 		16F6104921EB8FD8005A99D2 /* CleanDocUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16F6104821EB8FD8005A99D2 /* CleanDocUITests.swift */; };
+		16F6105A21EB9060005A99D2 /* CDViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16F6105921EB9060005A99D2 /* CDViewController.swift */; };
+		16F6105B21EB9060005A99D2 /* CDViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16F6105921EB9060005A99D2 /* CDViewController.swift */; };
+		16F6105C21EB9060005A99D2 /* CDViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16F6105921EB9060005A99D2 /* CDViewController.swift */; };
+		16F6105E21EB9396005A99D2 /* UIButtonExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16F6105D21EB9396005A99D2 /* UIButtonExtension.swift */; };
+		16F6105F21EB9396005A99D2 /* UIButtonExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16F6105D21EB9396005A99D2 /* UIButtonExtension.swift */; };
+		16F6106021EB9396005A99D2 /* UIButtonExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16F6105D21EB9396005A99D2 /* UIButtonExtension.swift */; };
+		16F6106321EB99C5005A99D2 /* UIScrollViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16F6106221EB99C5005A99D2 /* UIScrollViewExtension.swift */; };
+		16F6106421EB99C5005A99D2 /* UIScrollViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16F6106221EB99C5005A99D2 /* UIScrollViewExtension.swift */; };
+		16F6106521EB99C5005A99D2 /* UIScrollViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16F6106221EB99C5005A99D2 /* UIScrollViewExtension.swift */; };
+		16F6106721EB9A38005A99D2 /* CDDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16F6106621EB9A38005A99D2 /* CDDataModel.swift */; };
+		16F6106821EB9A38005A99D2 /* CDDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16F6106621EB9A38005A99D2 /* CDDataModel.swift */; };
+		16F6106921EB9A38005A99D2 /* CDDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16F6106621EB9A38005A99D2 /* CDDataModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +82,22 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		16EFD0DF21F1B576003CC125 /* CDAppointmentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CDAppointmentViewController.swift; sourceTree = "<group>"; };
+		16EFD0E321F1B5AA003CC125 /* CDProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CDProfileViewController.swift; sourceTree = "<group>"; };
+		16EFD0E721F1B5D3003CC125 /* CDAppointmentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CDAppointmentViewModel.swift; sourceTree = "<group>"; };
+		16EFD0EB21F1B5E3003CC125 /* CDLocationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CDLocationService.swift; sourceTree = "<group>"; };
+		16EFD0EF21F49BEE003CC125 /* MediaPickerPresenter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MediaPickerPresenter.swift; sourceTree = "<group>"; };
+		16EFD0F021F49BEE003CC125 /* MimeType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MimeType.swift; sourceTree = "<group>"; };
+		16EFD0F121F49BEE003CC125 /* DocumentPickerHandler.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DocumentPickerHandler.swift; sourceTree = "<group>"; };
+		16EFD0F221F49BEE003CC125 /* ImagePickerHandler.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImagePickerHandler.swift; sourceTree = "<group>"; };
+		16EFD0F321F49BEE003CC125 /* FileInfo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FileInfo.swift; sourceTree = "<group>"; };
+		16EFD10321F4A071003CC125 /* CleanDoc-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CleanDoc-Bridging-Header.h"; sourceTree = "<group>"; };
+		16EFD10421F4A071003CC125 /* CleanDocTests-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CleanDocTests-Bridging-Header.h"; sourceTree = "<group>"; };
+		16EFD10521F4A071003CC125 /* CleanDocUITests-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CleanDocUITests-Bridging-Header.h"; sourceTree = "<group>"; };
+		16EFD10621F4A073003CC125 /* DAKeyboardControl.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DAKeyboardControl.h; sourceTree = "<group>"; };
+		16EFD10721F4A073003CC125 /* DAKeyboardControl.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DAKeyboardControl.m; sourceTree = "<group>"; };
+		16EFD10D21F4A71F003CC125 /* DateExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateExtension.swift; sourceTree = "<group>"; };
+		16EFD11121F4B606003CC125 /* CDProfileViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CDProfileViewModel.swift; sourceTree = "<group>"; };
 		16F6102521EB8FD1005A99D2 /* CleanDoc.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CleanDoc.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		16F6102821EB8FD1005A99D2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		16F6102A21EB8FD1005A99D2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +111,10 @@
 		16F6104421EB8FD8005A99D2 /* CleanDocUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CleanDocUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		16F6104821EB8FD8005A99D2 /* CleanDocUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CleanDocUITests.swift; sourceTree = "<group>"; };
 		16F6104A21EB8FD8005A99D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		16F6105921EB9060005A99D2 /* CDViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CDViewController.swift; sourceTree = "<group>"; };
+		16F6105D21EB9396005A99D2 /* UIButtonExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIButtonExtension.swift; sourceTree = "<group>"; };
+		16F6106221EB99C5005A99D2 /* UIScrollViewExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIScrollViewExtension.swift; sourceTree = "<group>"; };
+		16F6106621EB9A38005A99D2 /* CDDataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CDDataModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +142,27 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		16EFD10B21F4A197003CC125 /* Header */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Header;
+			sourceTree = "<group>";
+		};
+		16EFD10C21F4A1A1003CC125 /* Support */ = {
+			isa = PBXGroup;
+			children = (
+				16EFD0F121F49BEE003CC125 /* DocumentPickerHandler.swift */,
+				16EFD0F321F49BEE003CC125 /* FileInfo.swift */,
+				16EFD0F221F49BEE003CC125 /* ImagePickerHandler.swift */,
+				16EFD0EF21F49BEE003CC125 /* MediaPickerPresenter.swift */,
+				16EFD0F021F49BEE003CC125 /* MimeType.swift */,
+				16EFD10621F4A073003CC125 /* DAKeyboardControl.h */,
+				16EFD10721F4A073003CC125 /* DAKeyboardControl.m */,
+			);
+			path = Support;
+			sourceTree = "<group>";
+		};
 		16F6101C21EB8FD1005A99D2 = {
 			isa = PBXGroup;
 			children = (
@@ -97,6 +186,12 @@
 		16F6102721EB8FD1005A99D2 /* CleanDoc */ = {
 			isa = PBXGroup;
 			children = (
+				16EFD10C21F4A1A1003CC125 /* Support */,
+				16EFD10B21F4A197003CC125 /* Header */,
+				16F6106121EB99A7005A99D2 /* Extension */,
+				16F6105821EB9043005A99D2 /* Controller */,
+				16F6105721EB9025005A99D2 /* ViewModel */,
+				16F6105621EB8FFC005A99D2 /* Model */,
 				16F6102821EB8FD1005A99D2 /* AppDelegate.swift */,
 				16F6102A21EB8FD1005A99D2 /* ViewController.swift */,
 				16F6102C21EB8FD1005A99D2 /* Main.storyboard */,
@@ -123,6 +218,47 @@
 				16F6104A21EB8FD8005A99D2 /* Info.plist */,
 			);
 			path = CleanDocUITests;
+			sourceTree = "<group>";
+		};
+		16F6105621EB8FFC005A99D2 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				16F6106621EB9A38005A99D2 /* CDDataModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		16F6105721EB9025005A99D2 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				16EFD0E721F1B5D3003CC125 /* CDAppointmentViewModel.swift */,
+				16EFD11121F4B606003CC125 /* CDProfileViewModel.swift */,
+				16EFD0EB21F1B5E3003CC125 /* CDLocationService.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		16F6105821EB9043005A99D2 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				16EFD10321F4A071003CC125 /* CleanDoc-Bridging-Header.h */,
+				16EFD10421F4A071003CC125 /* CleanDocTests-Bridging-Header.h */,
+				16EFD10521F4A071003CC125 /* CleanDocUITests-Bridging-Header.h */,
+				16F6105921EB9060005A99D2 /* CDViewController.swift */,
+				16EFD0DF21F1B576003CC125 /* CDAppointmentViewController.swift */,
+				16EFD0E321F1B5AA003CC125 /* CDProfileViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		16F6106121EB99A7005A99D2 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				16F6105D21EB9396005A99D2 /* UIButtonExtension.swift */,
+				16EFD10D21F4A71F003CC125 /* DateExtension.swift */,
+				16F6106221EB99C5005A99D2 /* UIScrollViewExtension.swift */,
+			);
+			path = Extension;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -193,13 +329,16 @@
 				TargetAttributes = {
 					16F6102421EB8FD1005A99D2 = {
 						CreatedOnToolsVersion = 10.1;
+						LastSwiftMigration = 1010;
 					};
 					16F6103821EB8FD8005A99D2 = {
 						CreatedOnToolsVersion = 10.1;
+						LastSwiftMigration = 1010;
 						TestTargetID = 16F6102421EB8FD1005A99D2;
 					};
 					16F6104321EB8FD8005A99D2 = {
 						CreatedOnToolsVersion = 10.1;
+						LastSwiftMigration = 1010;
 						TestTargetID = 16F6102421EB8FD1005A99D2;
 					};
 				};
@@ -256,8 +395,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				16EFD0FD21F49BEF003CC125 /* ImagePickerHandler.swift in Sources */,
+				16EFD10E21F4A71F003CC125 /* DateExtension.swift in Sources */,
+				16F6106321EB99C5005A99D2 /* UIScrollViewExtension.swift in Sources */,
 				16F6102B21EB8FD1005A99D2 /* ViewController.swift in Sources */,
+				16F6105E21EB9396005A99D2 /* UIButtonExtension.swift in Sources */,
+				16EFD11221F4B606003CC125 /* CDProfileViewModel.swift in Sources */,
+				16EFD0EC21F1B5E3003CC125 /* CDLocationService.swift in Sources */,
+				16EFD10821F4A073003CC125 /* DAKeyboardControl.m in Sources */,
 				16F6102921EB8FD1005A99D2 /* AppDelegate.swift in Sources */,
+				16F6105A21EB9060005A99D2 /* CDViewController.swift in Sources */,
+				16F6106721EB9A38005A99D2 /* CDDataModel.swift in Sources */,
+				16EFD0F421F49BEE003CC125 /* MediaPickerPresenter.swift in Sources */,
+				16EFD10021F49BEF003CC125 /* FileInfo.swift in Sources */,
+				16EFD0E821F1B5D3003CC125 /* CDAppointmentViewModel.swift in Sources */,
+				16EFD0E021F1B576003CC125 /* CDAppointmentViewController.swift in Sources */,
+				16EFD0FA21F49BEF003CC125 /* DocumentPickerHandler.swift in Sources */,
+				16EFD0E421F1B5AA003CC125 /* CDProfileViewController.swift in Sources */,
+				16EFD0F721F49BEF003CC125 /* MimeType.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,6 +421,22 @@
 			buildActionMask = 2147483647;
 			files = (
 				16F6103E21EB8FD8005A99D2 /* CleanDocTests.swift in Sources */,
+				16EFD0FB21F49BEF003CC125 /* DocumentPickerHandler.swift in Sources */,
+				16EFD0E921F1B5D3003CC125 /* CDAppointmentViewModel.swift in Sources */,
+				16EFD10121F49BEF003CC125 /* FileInfo.swift in Sources */,
+				16F6105B21EB9060005A99D2 /* CDViewController.swift in Sources */,
+				16EFD0F521F49BEF003CC125 /* MediaPickerPresenter.swift in Sources */,
+				16F6105F21EB9396005A99D2 /* UIButtonExtension.swift in Sources */,
+				16EFD10921F4A073003CC125 /* DAKeyboardControl.m in Sources */,
+				16EFD11321F4B606003CC125 /* CDProfileViewModel.swift in Sources */,
+				16EFD0FE21F49BEF003CC125 /* ImagePickerHandler.swift in Sources */,
+				16EFD10F21F4A71F003CC125 /* DateExtension.swift in Sources */,
+				16EFD0F821F49BEF003CC125 /* MimeType.swift in Sources */,
+				16EFD0E521F1B5AA003CC125 /* CDProfileViewController.swift in Sources */,
+				16F6106421EB99C5005A99D2 /* UIScrollViewExtension.swift in Sources */,
+				16F6106821EB9A38005A99D2 /* CDDataModel.swift in Sources */,
+				16EFD0ED21F1B5E3003CC125 /* CDLocationService.swift in Sources */,
+				16EFD0E121F1B576003CC125 /* CDAppointmentViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,6 +445,22 @@
 			buildActionMask = 2147483647;
 			files = (
 				16F6104921EB8FD8005A99D2 /* CleanDocUITests.swift in Sources */,
+				16EFD0FC21F49BEF003CC125 /* DocumentPickerHandler.swift in Sources */,
+				16EFD0EA21F1B5D3003CC125 /* CDAppointmentViewModel.swift in Sources */,
+				16EFD10221F49BEF003CC125 /* FileInfo.swift in Sources */,
+				16F6105C21EB9060005A99D2 /* CDViewController.swift in Sources */,
+				16EFD0F621F49BEF003CC125 /* MediaPickerPresenter.swift in Sources */,
+				16F6106021EB9396005A99D2 /* UIButtonExtension.swift in Sources */,
+				16EFD10A21F4A073003CC125 /* DAKeyboardControl.m in Sources */,
+				16EFD11421F4B606003CC125 /* CDProfileViewModel.swift in Sources */,
+				16EFD0FF21F49BEF003CC125 /* ImagePickerHandler.swift in Sources */,
+				16EFD11021F4A71F003CC125 /* DateExtension.swift in Sources */,
+				16EFD0F921F49BEF003CC125 /* MimeType.swift in Sources */,
+				16EFD0E621F1B5AA003CC125 /* CDProfileViewController.swift in Sources */,
+				16F6106521EB99C5005A99D2 /* UIScrollViewExtension.swift in Sources */,
+				16F6106921EB9A38005A99D2 /* CDDataModel.swift in Sources */,
+				16EFD0EE21F1B5E3003CC125 /* CDLocationService.swift in Sources */,
+				16EFD0E221F1B576003CC125 /* CDAppointmentViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -432,6 +619,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = CleanDoc/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -440,6 +628,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.hTech.CleanDoc;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "CleanDoc/Controller/CleanDoc-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -449,6 +639,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = CleanDoc/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -457,6 +648,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.hTech.CleanDoc;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "CleanDoc/Controller/CleanDoc-Bridging-Header.h";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -467,6 +659,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = CleanDocTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -476,6 +669,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.hTech.CleanDocTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "CleanDoc/Controller/CleanDocTests-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CleanDoc.app/CleanDoc";
@@ -487,6 +682,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = CleanDocTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -496,6 +692,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.hTech.CleanDocTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "CleanDoc/Controller/CleanDocTests-Bridging-Header.h";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CleanDoc.app/CleanDoc";
@@ -506,6 +703,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = CleanDocUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -515,6 +713,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.hTech.CleanDocUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "CleanDoc/Controller/CleanDocUITests-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = CleanDoc;
@@ -525,6 +725,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = CleanDocUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -534,6 +735,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.hTech.CleanDocUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "CleanDoc/Controller/CleanDocUITests-Bridging-Header.h";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = CleanDoc;

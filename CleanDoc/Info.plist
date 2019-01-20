@@ -4,6 +4,8 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>Clinc </string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -41,5 +43,31 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+    <key>NSCameraUsageDescription</key>
+    <string>FDG would like to store a photo.</string>
+    <key>NSFaceIDUsageDescription</key>
+    <string>Face ID is required for login</string>
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>Location is required to track your routes</string>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>Location is required to track your routes</string>
+    <key>NSLocationUsageDescription</key>
+    <string>Location services will be used to monitor your routes.</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>Location is required to track your routes</string>
+    <key>NSMotionUsageDescription</key>
+    <string>Motion usage is required to improve dynamic routing</string>
+    <key>NSCameraUsageDescription</key>
+    <string>Will be accessing camera for attaching records to the tasks</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Will be accessing photos for attaching records to the tasks</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Need access for videos</string>
+    <key>UIBackgroundModes</key>
+    <array>
+        <string>fetch</string>
+        <string>location</string>
+        <string>remote-notification</string>
+    </array>
 </dict>
 </plist>
